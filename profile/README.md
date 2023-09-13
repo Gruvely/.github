@@ -28,9 +28,9 @@ Please follow our [Contribution Guidelines](link_to_contribution_guidelines) for
 
 Join the Gruvely community to connect with other users, share your experiences, and stay updated with the latest news and releases. You can find us on:
 
-- [GitHub Discussions](link_to_discussions){:target="_blank"}
-- [Twitter](link_to_twitter){:target="_blank"}
-- [LinkedIn](link_to_linkedin){:target="_blank"}
+- [GitHub Discussions](link_to_discussions) {:target="_blank"}
+- [Twitter](link_to_twitter) {:target="_blank"}
+- [LinkedIn](link_to_linkedin) {:target="_blank"}
 
 ### License
 
@@ -40,4 +40,4 @@ Gruvely is licensed under the [MIT License](link_to_license). See the [LICENSE](
 
 Thank you for choosing Gruvely to transform your client feedback into business growth. We look forward to working together!
 
-[Visit our website](https://gruvely.com){:target="_blank"}
+[Visit our website](https://gruvely.com) {:target="_blank"}
