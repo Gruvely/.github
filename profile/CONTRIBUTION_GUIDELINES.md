@@ -4,14 +4,14 @@ Welcome to the Gruvely community! We appreciate your interest in contributing to
 
 ## How to Contribute
 
-1. **Clone the Repository:** Clone the forked repository to your local machine:
+1. **Clone the Repository:** Clone the appropriate repository to your local machine:
 
-For the landing page
+For the landing page...
    ```{bash}
    git clone https://github.com/Gruvely/gruvely.git
    ```
 
-For the app
+For the app...
    ```{bash}
    git clone https://github.com/Gruvely/app.git
    ```
