@@ -16,7 +16,7 @@ Gruvely is an AI-powered Customer Relationship Management (CRM) platform dedicat
 
 ### Getting Started
 
-To get started contributing to Gruvely, check out our [Documentation](link_to_documentation) for detailed guides, tutorials, and API references. If you have any questions or need assistance, please feel free to reach out.
+To get started contributing to Gruvely, check out the appropriate wiki from each repository for detailed guides, tutorials, and API references. If you have any questions or need assistance, please feel free to reach out.
 
 ### Contribution Guidelines
 
