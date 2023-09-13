@@ -1,10 +1,12 @@
-# Welcome to Gruvely - Transforming Client Feedback into Business Growth
+# Welcome to Gruvely
 
-## About Gruvely
+Transforming Client Feedback into Business Growth
+
+### About Gruvely
 
 Gruvely is an AI-powered Customer Relationship Management (CRM) platform dedicated to helping businesses harness the power of client feedback to drive sustainable growth. Our mission is to empower organizations to build stronger client relationships, make data-driven decisions, and achieve business success.
 
-## Features
+### Features
 
 - **AI-Powered Insights:** Leverage advanced AI algorithms to extract valuable insights from client feedback, enabling you to make informed decisions and improvements.
 
@@ -14,23 +16,23 @@ Gruvely is an AI-powered Customer Relationship Management (CRM) platform dedicat
 
 - **Actionable Recommendations:** Receive actionable recommendations based on client feedback, helping you implement changes that lead to business growth.
 
-## Getting Started
+### Getting Started
 
-To get started with Gruvely, check out our [Documentation](link_to_documentation) for detailed guides, tutorials, and API references. If you have any questions or need assistance, please feel free to reach out to us.
+To get started contributing to Gruvely, check out our [Documentation](link_to_documentation) for detailed guides, tutorials, and API references. If you have any questions or need assistance, please feel free to reach out.
 
-## Contribution Guidelines
+### Contribution Guidelines
 
-We welcome contributions from the community to enhance Gruvely and make it even more powerful. If you'd like to get involved, please follow our [Contribution Guidelines](link_to_contribution_guidelines) for details on how to contribute, report issues, and submit pull requests.
+Please follow our [Contribution Guidelines](link_to_contribution_guidelines) for details on how to contribute, report issues, and submit pull requests.
 
-## Community
+### Community
 
 Join the Gruvely community to connect with other users, share your experiences, and stay updated with the latest news and releases. You can find us on:
 
-- [GitHub Discussions](link_to_discussions)
-- [Twitter](link_to_twitter)
-- [LinkedIn](link_to_linkedin)
+- [GitHub Discussions](link_to_discussions){target="_blank"}
+- [Twitter](link_to_twitter){target="_blank"}
+- [LinkedIn](link_to_linkedin){target="_blank"}
 
-## License
+### License
 
 Gruvely is licensed under the [MIT License](link_to_license). See the [LICENSE](link_to_license) file for more details.
 
@@ -38,4 +40,4 @@ Gruvely is licensed under the [MIT License](link_to_license). See the [LICENSE](
 
 Thank you for choosing Gruvely to transform your client feedback into business growth. We look forward to working together!
 
-[Visit our website](https://gruvely.com)
+[Visit our website](https://gruvely.com){target="_blank"}
