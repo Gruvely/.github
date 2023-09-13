@@ -1,6 +1,4 @@
-# Welcome to Gruvely
-
-Transforming Client Feedback into Business Growth
+# Welcome to *Gruvely*
 
 ### About Gruvely
 
