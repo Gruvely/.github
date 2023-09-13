@@ -20,7 +20,7 @@ To get started contributing to Gruvely, check out our [Documentation](link_to_do
 
 ### Contribution Guidelines
 
-Please follow our [Contribution Guidelines](profile/CONTRIBUTION_GUIDELINES.md) for details on how to contribute, report issues, and submit pull requests.
+Please follow our [Contribution Guidelines](CONTRIBUTION_GUIDELINES.md) for details on how to contribute, report issues, and submit pull requests.
 
 ### Community
 
