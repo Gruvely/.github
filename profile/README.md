@@ -26,13 +26,12 @@ Please follow our [Contribution Guidelines](CONTRIBUTION_GUIDELINES.md) for deta
 
 Join the Gruvely community to connect with other users, share your experiences, and stay updated with the latest news and releases. You can find us on:
 
-- [GitHub Discussions](link_to_discussions)
-- [Twitter](link_to_twitter)
-- [LinkedIn](link_to_linkedin)
+- [LinkedIn](https://www.linkedin.com/company/gruvely)
+- [Instagram](https://www.instagram.com/gruvely/)
 
 ### License
 
-Gruvely is licensed under the [MIT License](link_to_license). See the [LICENSE](link_to_license) file for more details.
+Gruvely is licensed under the [MIT License](https://opensource.org/license/mit/). See the LICENSE on each repository file for more details.
 
 ---
 
