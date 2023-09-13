@@ -32,7 +32,9 @@ git commit -m "Add new feature: description of the changes"
 ```
 
 6. **Create a Pull Request:** Go to the Gruvely repository on GitHub and create a new Pull Request (PR) from your branch. Ensure that you provide a detailed description of your changes in the PR.
+
 7. **Review and Collaboration:** The maintainers will review your PR and may provide feedback or request further changes. Be responsive to comments and collaborate to address any issues.
+
 8. **Merge and Deployment:** Once your PR is approved, it will be merged into the main branch, and your contribution will be included in our next release
 
 ## Development Environment
